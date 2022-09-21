@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/income_tracker/static/css/main.7d316405.css",
+    "main.js": "/income_tracker/static/js/main.019425cb.js",
+    "index.html": "/income_tracker/index.html",
+    "main.7d316405.css.map": "/income_tracker/static/css/main.7d316405.css.map",
+    "main.019425cb.js.map": "/income_tracker/static/js/main.019425cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d316405.css",
+    "static/js/main.019425cb.js"
+  ]
+}
